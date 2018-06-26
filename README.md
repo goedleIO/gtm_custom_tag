@@ -1,6 +1,4 @@
-title: goedle.io - Google Tag Manager Integration
-
-#Quickstart Google Tag Manager for your website tracking
+#Quickstart goedle.io Custom Tag for Google Tag Manager
 
 * This page describe the goedle.io integration via the [Google Tag Manager](https://developers.google.com/tag-manager/quickstart)
 * Create a <a href="https://tagmanager.google.com">GTM Account</a> 
