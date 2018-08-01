@@ -15,7 +15,7 @@ The easiest way to track events is to use Built-In-Variables. You can acces the 
 For instances, if you want to track clicks, you can simply use the `{{Click ID}}` variable as event. 
 
 
-##Add the goedle_tag as Custom HTML TAG
+## Add the goedle_tag as Custom HTML TAG
 Open your project in the Google Tag Manager front end and go to `Container`. Then create a new Custom HTML Tag:
 
 Name: goedle_tag
@@ -49,7 +49,7 @@ Insert the goedle.io app-key in the field of
 `var app_key = <YOURAPPKEY>`
 
 
-##Add Triggers for goedle.io Relevant Actions 
+## Add Triggers for goedle.io Relevant Actions 
 To trigger the correct events, different triggers are needed. In the Google Tag Manager `Container` under `Triggers` you can choose which kind of events you want to track. This can Page Views, Clicks, User Engagement or Custom Events. 
 
 **Adding Triggers:**
